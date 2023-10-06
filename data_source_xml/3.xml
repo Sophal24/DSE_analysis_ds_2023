@@ -1,0 +1,3877 @@
+<quiz>
+
+  <question type="matching">
+    <name>
+      <text>News-Information-001</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 1</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <subquestion format="html">
+      <text>&lt;ul&gt;&lt;li&gt;&lt;span lang="CA"&gt;&lt;span&gt;សម្តេចតេជោ ហ៊ុន សែន នាយករដ្ឋមន្ត្រីនៃព្រះរាជាណាចក្រកម្ពុជា នៅថ្ងៃទី៤ ខែធ្នូ ឆ្នាំ២០២១នេះ បានស្នើ&lt;span&gt;ដល់&lt;/span&gt;ដៃគូរអភិវឌ្ឍប្រទេសជាមិត្ត និងអង្គការសប្បុរសធម៌ឱ្យជួយដោះស្រាយបញ្ហាមីននៅកម្ពុជា។&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</text>
+      <answer>
+        <text>ព័ត៌មាន</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;ul&gt;&lt;li&gt;ព្រះករុណាជាអរម្ចាស់ជីវិតលើត្បូង ព្រះបាទសម្តេចព្រះបរមនាថ នរោត្តម សីហមុនី ព្រះមហាក្សត្រនៃព្រះរាជាណាចក្រកម្ពុជា ជាទីគោរពសក្ការៈដ៏ខ្ពង់ខ្ពស់បំផុត &amp;nbsp;ព្រះអង្គសព្វព្រះរាជហឫទ័យ ស្តេចបានយាងជាព្រះរាជាធិបតីដ៏ខ្ពង់ខ្ពស់បំផុត ក្នុងព្រះរាជពិធីបុណ្យសម្ពោធឆ្លង “ប៉ុស្តិ៍សុខភាព សម្តេចព្រះមហាសង្ឃរាជ បួរ គ្រី-ព្រះករុណាព្រះមហាក្សត្រ សីហមុនី” នៅភូមិត្រពាំងក្រពើ ឃុំក្រាំងម្កាក់ ស្រុកអង្គស្នួល ខេត្តកណ្តាល។&lt;/li&gt;&lt;/ul&gt;</text>
+      <answer>
+        <text>ព័ត៌មាន</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text />
+      <answer>
+        <text>ដំណឹង</text>
+      </answer>
+    </subquestion>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>1-4</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 2</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Option 1&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Option 2&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Option 3&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Option 4&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-25" format="html">
+      <text>&lt;p&gt;Option 5&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>4-1</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 3</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="25" format="html">
+      <text>&lt;p&gt;Option 1&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text>&lt;p&gt;Option 2&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text>&lt;p&gt;Option 3&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="25" format="html">
+      <text>&lt;p&gt;Option 4&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-100" format="html">
+      <text>&lt;p&gt;Option 5&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>5W + H</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 4</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;ឯកសារ (Documentary)&amp;nbsp;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;&lt;span lang="KHM"&gt;ឯកសារស្រាវជ្រាវ (&lt;/span&gt;&lt;span lang="CA"&gt;Research
+Paper&lt;/span&gt;&lt;span lang="KHM"&gt;)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;&lt;span lang="KHM"&gt;ព័ត៌មាន (&lt;/span&gt;&lt;span lang="CA"&gt;Information&lt;/span&gt;&lt;span lang="KHM"&gt;)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;&lt;span lang="KHM"&gt;និក្ខេបបទ (&lt;/span&gt;&lt;span lang="CA"&gt;Thesis&lt;/span&gt;&lt;span lang="KHM"&gt;)&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;&lt;span lang="KHM"&gt;ដំណឹង (&lt;/span&gt;&lt;span lang="CA"&gt;News&lt;/span&gt;&lt;span lang="KHM"&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Column</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 5</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>អត្ថបទទស្សនៈស្ថាប័ន&lt;br&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;អត្ថបទវិភាគ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;ដំណឹងស៊ើបអង្កេត&amp;nbsp;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>អត្ថបទទស្សនៈបុគ្គល</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Convergent Media</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 6</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>Social Media</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;Online Media&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Multimedia&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;Traditional Media&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Creative Writing-003</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 7</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="-33.33333" format="html">
+      <text>&lt;p&gt;កំណត់ហេតុ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;យីកេ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="html">
+      <text>&lt;p&gt;ដំណឹង&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;ចម្រៀង&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="html">
+      <text>&lt;p&gt;របកគំហើញ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Definition-001</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 8</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>&amp;nbsp;វិទ្យុ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;&lt;span lang="KHM"&gt;ទូរទស្សន៍&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;&lt;span lang="KHM"&gt;គេហទំព័រ&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>មធ្យោបាយផ្សព្វផ្សាយ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Definition-003</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 9</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="-33.33333" format="html">
+      <text>&lt;p&gt;ការយល់ដឹងពី បច្ចេកវិទ្យាគមនាគមន៍ និងព័ត៍មាន (ICT)&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការយល់ដឹងពី&lt;/span&gt;ព័ត៌មានភាន់ច្រឡំ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការយល់ដឹងពី Apps &amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការយល់ដឹងពីប្រភេទព័ត៌មាន&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការយល់ដឹងពី&lt;/span&gt;ប្រភេទមធ្យោបាយផ្សព្វផ្សាយ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Definition-004</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 10</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការយល់ដឹងពីអត្ថបទទស្សនៈ &lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការយល់ដឹងពីប្រព័ន្ធផ្សព្វផ្សាយ&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការយល់ដឹងពីប្រភេទដំណឹង&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការមិនយល់ដឹងពីការចែករំលែកព័ត៌មាន និងដំណឹង&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>delete</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>de</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Definition-004</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 11</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការយល់ដឹងពីអត្ថបទទស្សនៈ &lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការយល់ដឹងពីប្រព័ន្ធផ្សព្វផ្សាយ&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការយល់ដឹងពីប្រភេទដំណឹង&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការមិនយល់ដឹងពីការចែករំលែកព័ត៌មាន និងដំណឹង&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ការយល់ដឹងពីបណ្តាញអ៊ី&lt;/span&gt;&lt;span lang="KHM"&gt;ន&lt;/span&gt;&lt;span lang="CA"&gt;ធឺណិត&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>delete</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Information</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 12</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;អត្ថបទដំណឹងពេញលេញ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;អត្ថបទដំណឹងមិនទាន់ពេញលេញ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Information Disorder-003</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 13</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;ព័ត៌មានភាន់ច្រឡំ&lt;span lang="KHM"&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>អត្ថបទក្លែងបន្លំ&amp;nbsp;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;អត្ថបទបំភ្លៃ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;អត្ថបទវិភាគ
+&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;អត្ថបទទស្សនៈ
+&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Information Disorder-004</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 14</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;ព័ត៌មានភាន់ច្រឡំ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;ព័ត៌មានលំអៀង&lt;span lang="KHM"&gt; &lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;ព័ត៌មានទាក់ទាញការចុចចូលមើល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;អត្ថបទទស្សនៈ &lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;អត្ថបទអក្សរសិល្ប៍
+&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Investigate</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 15</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;&lt;span lang="CA"&gt;ស្វែងរកការពិត&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ដំណឹងបឋម</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ដំណឹងទាន់ហេតុការណ៍</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ដំណឹងវិភាគ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Misinformation-001</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 16</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;ព័ត៌មានភាន់ច្រឡំ&lt;span lang="KHM"&gt; (&lt;/span&gt;&lt;span lang="CA"&gt;Misinformatio&lt;/span&gt;n&lt;span lang="KHM"&gt;)&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;ព័ត៌មានក្លែងបន្លំ&lt;span lang="KHM"&gt; (&lt;/span&gt;&lt;span lang="CA"&gt;Disinformation&lt;/span&gt;&lt;span lang="KHM"&gt;)&lt;/span&gt;&lt;span lang="KHM"&gt; &amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>News</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 17</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;ជាផ្នែករបស់ Information&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;ជាផ្នែករបស់ Media&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;ជាបណ្តុំ Information ពេញលេញ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;ជាព័ត៌មានបឋម (Breaking News)&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Professional Writing-001</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 18</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;រឿងប្រលោមលោក&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;ការស្រាវជ្រាវ&amp;nbsp;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;ការស៊ើបអង្កេត&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;កំណាព្យ&amp;nbsp;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>pending</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Professional Writing-001</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 19</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;រឿងប្រលោមលោក&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;ការស្រាវជ្រាវ&amp;nbsp;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;ការស៊ើបអង្កេត&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;កំណាព្យ&amp;nbsp;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Professional Writing-002</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 20</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;របាយការណ៍&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;ភាពយន្ត&amp;nbsp;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;សៀវភៅប្រវត្តិសាស្រ្ត&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;ល្ខោន&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Social Media-001</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 21</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>Multi Media</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;Portal&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;Website&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;Part of Media&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>បទយការណ៍-001</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 22</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;អត្ថបទវិភាគ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;អត្ថបទទស្សនៈ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ដំណឹងស៊ើបអង្កេត&amp;nbsp;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ដំណឹងស៊ីជម្រៅ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>បទវិចារណកថា-001</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 23</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>អត្ថបទព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;ដំណឹងប្រចាំថ្ងៃ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;អត្ថបទទស្សនៈ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;ដំណឹងស៊ើបអង្កេត&amp;nbsp;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>អក្សរសិល្ប៍-002</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 24</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;សំណេរបែបវិទ្យសាស្រ្តពិត&amp;nbsp;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;សំណេរបែបអក្សរសិល្ប៍&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="truefalse">
+    <name>
+      <text>Fake News-001</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 25</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>e</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="truefalse">
+    <name>
+      <text>False Information-001</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 26</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>e</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="matching">
+    <name>
+      <text>ការកំណត់អត្តសញ្ញាណព័ត៌មាន</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 27</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <subquestion format="html">
+      <text>&lt;p&gt;ការកំណត់អត្តសញ្ញាណព័ត៌មានគឺ&lt;br&gt;&lt;/p&gt;</text>
+      <answer>
+        <text>ជាការបង្កើតសំនួរ ពាក្យគន្លឹះស្វែងរក ដើម្បីទទួលបានព័ត៌មានដែលអ្នកចង់បាន</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;p&gt;តើអ្នកត្រូវដឹងអំពីអ្វី ដើម្បីស្វែងរកព័ត៌មានអោយបានលឿន និងត្រឹមត្រូវ?&lt;br&gt;&lt;/p&gt;</text>
+      <answer>
+        <text>ប្រភព</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>&lt;p&gt;&lt;br&gt;ការវាយតម្លៃព័ត៌មានគឺ&lt;br&gt;&lt;/p&gt;</text>
+      <answer>
+        <text>ជាដំណាក់កាលជ្រើសរើសព័ត៌មានដែលរកបាន</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text />
+      <answer>
+        <text>ជាការកំណត់អត្តសញ្ញាណបុគ្គលគ្រប់រូប</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text />
+      <answer>
+        <text>ព័ត៌មានដំបូង</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text />
+      <answer>
+        <text>ជាអត្តសញ្ញាណប័ណ្ណ</text>
+      </answer>
+    </subquestion>
+  </question>
+
+
+  <question type="matching">
+    <name>
+      <text>វាយតម្លៃព័ត៌មាន</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 28</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <shuffleanswers>true</shuffleanswers>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <subquestion format="html">
+      <text>&lt;p&gt;វាយតម្លៃព័ត៌មានគឺជាការវាយតម្លៃអំពី&lt;/p&gt;</text>
+      <answer>
+        <text>គុណភាព ភាពត្រឹមត្រូវ ភាពលម្អៀង ...។ល។</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text>ព័ត៌មានដែលមានគុណភាព គឺ</text>
+      <answer>
+        <text>ព័ត៌មានមានតម្រូវការ</text>
+      </answer>
+    </subquestion>
+    <subquestion format="html">
+      <text />
+      <answer>
+        <text>ព័ត៌មានដែលមានប្រភពច្បាស់លាស់</text>
+      </answer>
+    </subquestion>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Fake news 001</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 29</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ធ្វើឱ្យមនុស្សជជែកដេញដោលគ្នារកហេតុផលមិនចេះចប់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>កើតមានអំពើបោកប្រាស់គ្នាទៅវិញទៅមក</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ធ្វើឲ្យមនុស្សមានភាពភ័យខ្លាច</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ធ្វើអោយមនុស្សបាត់បង់សមត្ថភាពការងារ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Fake news 002</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 30</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ធ្វើការប្រៀបធៀបព័ត៌មានជាមួយប្រភពជាច្រើនផ្សេងទៀតដែលមានប្រធានបទដូចគ្នា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>អានព័ត៌មាន ដែលត្រូវបានសរសេរនៅក្នុងប្រភពនោះឱ្យបានលម្អិតបំផុត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>មើលលើទម្រង់ព័ត៌មានដែលគេសរសេរ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>មើលព័ត៌មានដែលមិនឆ្លើយតបនឹងប្រធានបទ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Fake news 003</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 31</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ប្រើម៉ាស៊ីនស្វែងរក(search engine) ដើម្បីស្វែងរកប្រភពដទៃៗទៀតដែលបញ្ជាក់អំពីវា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ពឹងលើបទពិសោធន៍ និងគំនិតផ្ទាល់ខ្លួនដើម្បីវាយតម្លៃ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>វាយតម្លៃលើព័ត៌មាននោះថាតើទំនង ឬមិនទំនង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ត្រឹមត្រូវ ឬមិនត្រឹមត្រូវអាស្រ័យលើមនុស្សអ្នកឱ្យតម្លៃវា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>General</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 32</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ប្រវត្តិសាស្ត្រ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>បច្ចេកវិទ្យា និងនយោបាយ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>វប្បធម៌ ប្រពៃណី</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជីវប្រវត្តិ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>General-001</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 33</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>សៀវភៅ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ទស្សនាវដ្តី</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>គេហទំព័រ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការពិនិត្យព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Identify Fact</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 34</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>កំណត់អត្តសញ្ញាណព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>អានព័ត៌មានរហូតដល់ចប់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>វាយតម្លៃព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>សិក្សាអំពីគោលបំណងរបស់ព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Reference Style</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 35</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Princeton</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>MLA</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Harvard</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Vancouver</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>កំណត់គំណិតសំខាន់ៗ</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 36</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>កំណត់គំនិតសំខាន់ៗ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>វាយតម្លៃព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>សួរ និងឆ្លើយ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ស្វែងរកព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ការស្វែងរក</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 37</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>none</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;ត្រុវចេះប្រើកុំព្យូទ័របានល្អ&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;បង្កើតសំណួរ និងពាក្យគន្លឹះ&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;ប្រើម៉ាស៊ីនស្វែងរក google search&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-100" format="html">
+      <text>ធ្វើការផ្សព្វផ្សាយព័ត៌មានតាមវិធីសាស្ត្រច្រើនយ៉ាង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ការស្វែងរក</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 38</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>10.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber>33</idnumber>
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>ចម្លើយរបស់អ្នកគឺ ត្រឹមត្រូវ</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>ចម្លើយរបស់អ្នកគឺ ត្រូវមួយផ្នែក។</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>ចម្លើយរបស់អ្នកគឺ មិនត្រឹិមត្រូវ។</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;ប្រើម៉ាស៊ីនស្វែងរក ដូចជា google search&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;ប្រើកុំព្យូទ័របានល្អ&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;បង្កើតសំណួរ និងពាក្យគុន្លឺះស្វែងរក ដែលសង្ឃឹមថានឹងទទួលបានចម្លើយត្រឹមត្រូវនឹងប្រធានបទ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;p&gt;បង្កើតចម្លើយដែលអ្នកត្រុវការ&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ជ្រើសយកព័ត៌មាន</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 39</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;វាយតម្លៃប្រភពដែលរកបាន&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;វាយតម្លៃព័ត៌មានដែលរកបាន&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;វាយតម្លៃកិច្ចការស្រាវជ្រាវ&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;វាយតម្លៃការផ្សព្វផ្សាយ&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ជ្រើសយកព័ត៌មាន</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 40</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>123</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;វាយតម្លៃប្រភពដែលរកបាន&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;វាយតម្លៃព័ត៌មានដែលរកបាន&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;វាយតម្លៃកិច្ចការស្រាវជ្រាវ&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;វាយតម្លៃការផ្សព្វផ្សាយ&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>pending</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ប្រភព ០០១</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 41</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ជាព័ត៌មានទទួលបានពីការសម្ភាសន៍បុគ្គលដែលស្ថិតក្នុងព្រឹត្តិការណ៍ផ្ទាល់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាព័ត៌មានបកប្រែពីភាសាផ្សេងទៀត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាព័ត៌មានថតចម្លងផ្សព្វផ្សាយបន្ត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាវិធីសាស្រ្តដោះស្រាយបញ្ហា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ប្រភព ០០២</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 42</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ប្រភពនោះមានព័ត៌មានមិនត្រឹមត្រូវ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រភពនោះសរសេរព័ត៌មានកំប្លែង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រភពនោះមានព័ត៌មានប្រវត្តិសាស្ត្រ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រភពនោះមានព័ត៌មានអំពីចោរកម្មច្រើនពេក</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ប្រភព ០០៣</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 43</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ប្រភពព័ត៌មានដើម (Primary source)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រភពត្រឹមត្រូវ (Valid source)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រភពមិនត្រឹមត្រូវ (Invalid source)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រភពដែលគួរឱ្យជឿជាក់ (Reliable source)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ផែនការ ០០១</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 44</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ធ្វើផែនការស្វែងរក ស្គាល់ប្រភព និងចេះប្រើឧបករណ៍ស្វែងរក</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>កំណត់វិសាលភាពព័ត៌មានដែលត្រូវការ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ស្គាល់ទម្រង់ព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>សួរអ្នកដែលមានជំនាញដែលត្រូវនឹងប្រធានបទ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ផ្សព្វផ្សាយ ០០១</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 45</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ការផ្សព្វផ្សាយព័ត៌មានតាមបណ្តាញផ្សព្វផ្សាយឌីជីថល ចេញពីប្រភពផ្សេងគ្នា និងទូលំទូលាយជាង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការផ្សព្វផ្សាយព័ត៌មានតាមវិទ្យុ ទូរទស្សន៍ មានភាពទំនើប និងទូលំទូលាយជាង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការផ្សព្វផ្សាយព័ត៌មានតាមវិទ្យុ ទូរទស្សន៍មានភាពសំបូរបែបជាង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការផ្សព្វផ្សាយព័ត៌មានតាមបណ្តាញផ្សព្វផ្សាយឌីជីថល មានភាពយឺតជាង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ផ្សព្វផ្សាយ ០០២</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 46</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ចុះឈ្មោះ ហើយបង្កើតគេហទំព័រលើបណ្តាញផ្សព្វផ្សាយសង្គម</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ពឹងយអ្នកជំនាញបច្ចេកវិទ្យាព័ត៌មានផ្សព្វផ្សាយឱ្យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ចូលទៅប្រើអ៊ីនធឺណិតហើយផ្សព្វផ្សាយព័ត៌មាននៅលើគេហទំព័រណាក៏បាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ផ្សព្វផ្សាយព័ត៌មាននៅលើកុំព្យូទ័រផ្ទាល់ខ្លួនមុននឹងបញ្ជូនទៅអ៊ីនធឺណិត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ពាក្យ ០០១</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 47</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>កាតាឡកបណ្ណាល័យផ្ទុកតែព័ត៌មានសៀវភៅគ្រប់ប្រភេទដែលមាននៅក្នុងបណ្ណាល័យ ចំណែកមូលដ្ឋានទិន្នន័យផ្ទុកព័ត៌មានគ្រប់ប្រភេទ និងមានភាពទូលំទូលាយតាមរយៈតំណភ្ជាប់ ទៅក្នុងវិបសាយនៅទូទាំងពិភពលោក</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>កាតាឡកបណ្ណាល័យផ្ទុកព័ត៌មានសៀវភៅគ្រប់ប្រភេទដូចគ្នានឹងមូលដ្ឋានទិន្នន័យដែរ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>កាតាឡកបណ្ណាល័យផ្ទុកព័ត៌មានទូលំទូលាយជាងមូលដ្ឋានទិន្នន័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>កាតាឡកបណ្ណាល័យផ្ទុកព័ត៌មានគ្រប់ប្រភេទនិងធនធានដទៃទៀត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ពាក្យ ០០២</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 48</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ក្រុមសៀវភៅច្រើនមុខ ឬច្រើនប្រភេទ ត្រូវបានរៀបចំតាមលំដាប់លំដោយ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការប្រមូលផ្តុំសៀវភៅនៅក្នុងបណ្ណាល័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>សេវាកម្មបណ្តាល័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>សៀវភៅត្រូវបានគ្រប់គ្រងជាលក្ខណៈប្រមូលផ្តុំ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ពាក្យ ០០៣</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 49</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>cyberbullying</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>online harassment</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>social media discrimination</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>unethical communication</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>review</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+      <tag><text>examreview</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>រក្សាសិទ្ធិ ០០១</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 50</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>សរសេរព័ត៌មាននោះនៅក្នុងសញ្ញាធ្មេញកណ្ដុរ និងមានឈ្មោះអ្នកនិពន្ធ និងលេខទំព័រ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្ដូរពាក្យពេចន៍របស់អ្នកនិពន្ធ ដោយពាក្យពេចន៍ផ្ទាល់ខ្លួនរបស់អ្នក ហើយមានឈ្មោះអ្នកនិពន្ធ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>សរសេរព័ត៌មានអោយដូចក្នុងសៀវភៅនោះដោយមិនមានឈ្មោះអ្នកនិពន្ធ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជំនួសពាក្យពេចន៍មួយចំនួននៅក្នុងប្រយោគនោះដោយពាក្យពេចន៍ផ្ទាល់របស់អ្នក</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>រក្សាសិទ្ធិ ០០២</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 51</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ជៀសវាងការលួចបន្លំ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ងាយស្រួលចំណាំ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>កុំឱ្យមានភាពស្មុគស្មាញ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ទុកឯកសារ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>រក្សាសិទ្ធិ ០០៣</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 52</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ការអានខ្លឹមសារលើគេហទំព័រ ដែលអាចរកបានជាសាធារណៈ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ចែកចាយការងារដើមរបស់អ្នកដទៃថាជារបស់អ្នកផ្ទាល់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ចែករំលែកអាសយដ្ឋានគេហទំព័រ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ដកស្រង់កថាខណ្ឌមួយហើយនិយាយពីប្រភពដើម</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>វាយតម្លៃ ០០១</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 53</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ជាមូលដ្ឋានសម្រាប់ ជ្រើសរើស និងវាយតម្លៃព័ត៌មានស្របតាមប្រធានបទស្រាវជ្រាវ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាការលើកទឹកចិត្ត ឬបង្កើតគំនិតអានព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>កំណត់អត្តសញ្ញាណព័ត៌មានដែលត្រូវការ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ងាយស្រួលក្នុងការប្រៀបធៀបប្រភេទព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>វាយតម្លៃ ០០២</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 54</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ជាព័ត៌មានដែលធ្វើឱ្យមនុស្សជឿជាក់តែម្ខាង ដោយមិនផ្តល់យុត្តិធម៌ឱ្យម្ខាងទៀត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាព័ត៌មានដែលសរសេរអំពីប្រវត្តិបុគ្គលម្នាក់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាព័ត៌មានសម្តែងជូនទស្សនិកជនកំសាន្ត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាព័ត៌មានលើកទឹកចិត្តមនុស្សម្នាក់ៗ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>វាយតម្លៃ ០០៣</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 55</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ជំនាញស្វែងរកព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជំនាញបំបែកពាក្យគន្លឹះ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជំនាញសួរ និងឆ្លើយ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ជំនាញវាយតម្លៃព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>វាយតម្លៃ ០០៤</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 56</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ទម្រង់ និងតម្លៃដូចគ្នា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ទម្រង់ដូចគ្នា និងតម្លៃខុសគ្នា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ទម្រង់ខុសគ្នា និងតម្លៃដូចគ្នា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ទម្រង់ខុសគ្នា និងតម្លៃខុសគ្នា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>វាយតម្លៃ ០០៥</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 57</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ត្រូវការពេលវេលាដើម្បីស្គាល់អំពីមនុស្សម្នាក់នោះអោយបានគ្រប់ជ្រុងជ្រោយ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>មើលលើអាកប្បកិរិយាមុខមាត់ រូបរាងកាយហើយវិនិច្ឆ័យតែម្តង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ធ្វើការវិនិច្ឆ័យតាមមិត្តភ័ក្តប្រាប់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>វិនិច្ឆ័យមនុស្សម្នាក់ទៅតាមអារម្មណ៍ខ្លួនឯង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>វាយតម្លៃ ០០៥</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 58</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ត្រូវការពេលវេលាដើម្បីស្គាល់អំពីមនុស្សម្នាក់នោះអោយបានគ្រប់ជ្រុងជ្រោយ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>មើលលើអាកប្បកិរិយាមុខមាត់ រូបរាងកាយហើយវិនិច្ឆ័យតែម្តង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ធ្វើការវិនិច្ឆ័យតាមមិត្តភ័ក្តប្រាប់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>វិនិច្ឆ័យមនុស្សម្នាក់ទៅតាមអារម្មណ៍ខ្លួនឯង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ស្វែងរក ០០១</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 59</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ឈ្មោះ និងទីតាំងបណ្ណាល័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>សេវាកម្មរបស់បណ្ណាល័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រភេទសៀវភៅនៅបណ្ណាល័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>កន្លែងអានសៀវភៅ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ស្វែងរក ០០២</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 60</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ប្រើការបំបែកគំនិតស្វែងរក</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការប្រើពាក្យគន្លឹះដែលបំបែកចេញពីប្រធានបទ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ការប្រើប្រធានបទទាំងមូលដើម្បីស្វែងរក</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រើម៉ាស៊ីនស្វែងរក</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ស្វែងរក ០០៣</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 61</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>វាយតម្លៃរកប្រភព</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>អានព័ត៌មានរហូតដល់ចប់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>កំណត់សំណួរ និងពាក្យគន្លឹះ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ដោះស្រាយបញ្ហា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ស្វែងរក ០០៤</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 62</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ស៊ើបសួរមិត្តភ័ក្ត និងគ្រួសាររបស់អ្នក អំពីការស្វែងរកធនធាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>រកមើលឯកសារស្រាវជ្រាវចាស់ៗរបស់អ្នក</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ទៅបណ្ណាល័យនៅដើមឆមាស</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ចូលទៅប្រើអុីនធឺណិត ហើយវាយបញ្ចូលពាក្យគន្លឹះ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>អក្ខកម្មព័ត៌មាន ០០១</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 63</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ការកំណត់អត្តសញ្ញាណ ស្វែងរក វាយតម្លៃ ប្រើប្រាស់ និងទទួលស្គាល់ព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>វិធីសាស្ត្រសរសេរអត្ថបទកាសែតសារព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ឲ្យចេះអានព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ព័ត៌មានកើតចេញពីប្រភពផ្សេងគ្នា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>អក្ខកម្មព័ត៌មាន ០០២</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 64</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>សមត្ថភាពស្វែងរកព័ត៌មានដែលមានភាពជឿជាក់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>សមត្ថភាពអានព័ត៌មានឱ្យបានលឿន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>សមត្ថភាពប្រើកុំព្យូទ័រឱ្យស្ទាត់ជំនាញ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>សមត្ថភាពចែកចាយព័ត៌មានបានលឿន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>អត្តសញ្ញាណ ០០១</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 65</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ស្វែងរកព័ត៌មាននៅបណ្ណាល័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>អានព័ត៌មានទាំងអស់នៅលើអុីនធឺណិត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>កំណត់ព័ត៌មានអំពីប្រធានបទដែលអ្នកត្រូវដឹងឱ្យបានច្រើនបន្ថែមទៀតតាមរយៈការស្វែងរក</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ដកស្រង់ព័ត៌មានពិត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="truefalse">
+    <name>
+      <text>កំណត់អត្ថសញ្ញាណព័ត៌មានត្រុវការ</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 66</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+
+
+  <question type="truefalse">
+    <name>
+      <text>ស្វែងរកព័ត៌មាន</text>
+    </name>
+    <questiontext format="html">
+      <text>3.Question 67</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

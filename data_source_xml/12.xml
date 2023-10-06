@@ -1,0 +1,2322 @@
+<quiz>
+
+  <question type="multichoice">
+    <name>
+      <text>Advantage-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 1</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>លើកកម្ពស់ទំនាក់ទំនងជាមួយគ្រប់ភាគីពាក់ព័ន្ធ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>លើកកម្ពស់ប្រសិទ្ធភាពសេវាសាធារណៈ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>លុបបំបាត់អំពើពុករលួយទាំងស្រុង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ចែករំលែកទិន្នន័យនិងព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>General</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>AI-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 2</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ជាសំណុំទិន្នន័យដែលមានទំហំធំខ្លាំងដែលតម្រូវឱ្យមានវិធីសាស្ត្រនិងបច្ចេកវិទ្យាពិសេសសម្រាប់គ្រប់គ្រងនិងវិភាគដើម្បីបង្ហាញពីទម្រង់ និន្នាការ និងទំនាក់ទំនង ជាពិសេសទាក់ទងនឹងអាកប្បកិរិយានិងអន្តរកម្មរបស់មនុស្ស។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ជាប្រព័ន្ធកុំព្យូទ័រដែលមានលទ្ធភាពអាចបំពេញភារកិច្ចដូចទៅនឹងភាពឆ្លាតវៃរបស់មនុស្ស ដែលមានដូចជាការយល់ឃើញ ការមើលឃើញ ការនិយាយ ការសម្រេចចិត្ត និងការបកប្រែរវាងភាសា។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាបណ្តាញនៃវត្ថុដែលត្រូវបានបង្កប់ដោយឧបករណ៍ចាប់សញ្ញានិងបច្ចេកវិទ្យាផ្សេងទៀត ដើម្បីផ្លាស់ប្តូរទិន្នន័យជាមួយឧបករណ៍និងប្រព័ន្ធផ្សេងៗ។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាបច្ចេកវិទ្យាសម្រាប់គ្រប់គ្រងនិងផ្តល់សេវាមជ្ឈមណ្ឌលទិន្នន័យ ដែលផ្តល់លទ្ធភាពដល់ការប្រើប្រាស់និងចែករំលែកធនធានគណនា ធនធានបណ្តាញ និងធនធានសម្រាប់ផ្ទុកទិន្នន័យប្រកបដោយប្រសិទ្ធភាពស្របទៅតាមតម្រូវការ ដោយគ្មានការគ្រប់គ្រងផ្ទាល់ពីអ្នកប្រើប្រាស់។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>technology</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Big Data-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 3</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ជាសំណុំទិន្នន័យដែលមានទំហំធំខ្លាំងដែលតម្រូវឱ្យមានវិធីសាស្ត្រនិងបច្ចេកវិទ្យាពិសេសសម្រាប់គ្រប់គ្រងនិងវិភាគដើម្បីបង្ហាញពីទម្រង់ និន្នាការ និងទំនាក់ទំនង ជាពិសេសទាក់ទងនឹងអាកប្បកិរិយានិងអន្តរកម្មរបស់មនុស្ស។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាប្រព័ន្ធកុំព្យួទ័រដែលមានលទ្ធភាពអាចបំពេញភារកិច្ចដូចទៅនឹងភាពឆ្លាតវៃរបស់មនុស្ស ដែលមានដូចជាការយល់ឃើញ ការមើលឃើញ ការនិយាយ ការសម្រេចចិត្ត និងការបកប្រែរវាងភាសា។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាបណ្តាញនៃវត្ថុដែលត្រូវបានបង្កប់ដោយឧបករណ៍ចាប់សញ្ញានិងបច្ចេកវិទ្យាផ្សេងទៀត ដើម្បីផ្លាស់ប្តូរទិន្នន័យជាមួយឧបករណ៍និងប្រព័ន្ធផ្សេងៗ។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាបច្ចេកវិទ្យាសម្រាប់គ្រប់គ្រងនិងផ្តល់សេវាមជ្ឈមណ្ឌលទិន្នន័យ ដែលផ្តល់លទ្ធភាពដល់ការប្រើប្រាស់និងចែករំលែកធនធានគណនា ធនធានបណ្តាញ និងធនធានសម្រាប់ផ្ទុកទិន្នន័យប្រកបដោយប្រសិទ្ធភាពស្របទៅតាមតម្រូវការ ដោយគ្មានការគ្រប់គ្រងផ្ទាល់ពីអ្នកប្រើប្រាស់។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>technology</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Blockchain-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 4</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ជាប្រភេទមូលដ្ឋានទិន្នន័យជាក់លាក់មួយ ដែលខុសពីមូលដ្ឋានទិន្នន័យធម្មតានៅក្នុងរបៀបដែលវារក្សាទុកទិន្នន័យ គឺវារក្សាទុកទិន្នន័យនៅក្នុងប្លុក ដែលត្រូវបានតភ្ជាប់គ្នា។ នៅពេលទិន្នន័យថ្មីចូលមកវាត្រូវបានបញ្ចូលទៅក្នុងប្លុកថ្មី។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាសំណុំទិន្នន័យដែលមានទំហំធំខ្លាំងដែលអាចត្រូវបានវិភាគដោយគណនាដើម្បីបង្ហាញពីលំនាំនិន្នាការ ជាពិសេស ទាក់ទងនឹងអាកប្បកិរិយានិងអន្តរកម្មរបស់មនុស្ស។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាប្រព័ន្ធកុំព្យួទ័រដែលមានលទ្ធភាពអាចបំពេញភារកិច្ចជាធម្មតា ដូចទៅនឹងភាពឆ្លាតវៃរបស់មនុស្ស ដូចជាការយល់ឃើញ ការមើលឃើញ ការនិយាយ ការសំរេចចិត្ត និងការបកប្រែរវាងភាសា។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាវត្ថុដែលត្រូវបានបង្កប់ដោយឧបករណ៍ចាប់សញ្ញាសុសវែរ និងបច្ចេកវិទ្យាផ្សេងទៀត ហើយ ត្រូវបានប្រើក្នុងគោលបំណងភ្ជាប់និងផ្លាស់ប្តូរទិន្នន័យជាមួយឧបករណ៍និងប្រព័ន្ធផ្សេងៗតាមអ៊ីនធឺណិត។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>technology</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Cloud  Computing-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 5</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>២ ប្រភេទ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>៣ ប្រភេទ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>៤ ប្រភេទ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>មានច្រើនប្រភេទ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>technology</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Cloud Computing-003</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 6</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ជាសំណុំទិន្នន័យដែលមានទំហំធំខ្លាំងដែលអាចត្រូវបានវិភាគដោយគណនាដើម្បីបង្ហាញពីលំនាំនិន្នាការ ជាពិសេស ទាក់ទងនឹងអាកប្បកិរិយានិងអន្តរកម្មរបស់មនុស្ស។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាប្រព័ន្ធកុំព្យួទ័រដែលមានលទ្ធភាពអាចបំពេញភារកិច្ចជាធម្មតា ដូចទៅនឹងភាពឆ្លាតវៃរបស់មនុស្ស ដូចជាការយល់ឃើញ ការមើលឃើញ ការនិយាយ ការសំរេចចិត្ត និងការបកប្រែរវាងភាសា។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាវត្ថុដែលត្រូវបានបង្កប់ដោយឧបករណ៍ចាប់សញ្ញាសុសវែរ និងបច្ចេកវិទ្យាផ្សេងទៀត ហើយ ត្រូវបានប្រើក្នុងគោលបំណងភ្ជាប់និងផ្លាស់ប្តូរទិន្នន័យជាមួយឧបករណ៍និងប្រព័ន្ធផ្សេងៗតាមអ៊ីនធឺណិត។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ជាបច្ចេកវិទ្យាសម្រាប់គ្រប់គ្រងនិងផ្តល់សេវាមជ្ឈមណ្ឌលទិន្នន័យ ដែលផ្តល់លទ្ធភាពដល់ការប្រើប្រាស់និងចែករំលែកធនធានគណនា ធនធានបណ្តាញ និងធនធានសម្រាប់ផ្ទុកទិន្នន័យប្រកបដោយប្រសិទ្ធភាពស្របទៅតាមតម្រូវការ ដោយគ្មានការគ្រប់គ្រងផ្ទាល់ពីអ្នក​ប្រើ​ប្រាស់។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>technology</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Data Center-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 7</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ត្រូវការប្រមូលទិន្នន័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ជាធនធានគណនារួម</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ត្រូវការថវិកាច្រើន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>មិនមានសន្តិសុខរឹងមាំ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Data Governance-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 8</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ជាយន្តការនិងនីតិវិធីសម្រាប់ការគ្រប់គ្រងនិងប្រើប្រាស់ទិន្នន័យប្រកបដោយប្រសិទ្ធភាពនិងប្រសិទ្ធផល ក្នុងនោះការងារសំខាន់ៗរួមមានការរៀបចំនិងអនុវត្តគោលនយោបាយ ស្តង់ដា និងនិម្មាបនកម្មទិន្នន័យ ការបែងចែកចំណាត់ថ្នាក់ ការគ្រប់គ្រងគុណភាព ការចែករំលែក និងការការពារទិន្នន័យ។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាទិន្នន័យដែលត្រូវបានផ្សព្វផ្សាយដើម្បីឱ្យសាធារណៈជនទូទៅអាចយកមកប្រើប្រាស់ និងបោះពុម្ពឡើងវិញតាមដែលពួកគេចង់បាន ដោយគ្មានការរឹតត្បិតពីការរក្សាសិទ្ធិ ប៉ាតង់ ឬយន្តការត្រួតពិនិត្យផ្សេងទៀត។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាការការពារទិន្នន័យដែលអាចបញ្ជាក់អំពីអត្តសញ្ញាណបុគ្គល និងទិន្នន័យពាក់ព័ន្ធផ្សេងទៀតដូចជាទិន្នន័យសុខាភិបាល ហិរញ្ញវត្ថុ និងទំនាក់ទំនងផ្ទាល់ខ្លួនរបស់បុគ្គល ពីការប្រើប្រាស់ដោយគ្មានការអនុញ្ញាត។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាការការពារទិន្នន័យឌីជីថលពីការវាយលុកតាមអ៊ីនធឺណិត ការលួច ការបំផ្លិចបំផ្លាញ ឬការប្រើប្រាស់ដោយគ្មានការអនុញ្ញាត។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Data Privacy-002</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 9</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ជាយន្តការនិងនីតិវិធីសម្រាប់ការគ្រប់គ្រងនិងប្រើប្រាស់ទិន្នន័យប្រកបដោយប្រសិទ្ធភាពនិងប្រសិទ្ធផល ក្នុងនោះការងារសំខាន់ៗរួមមានការរៀបចំនិងអនុវត្តគោលនយោបាយ ស្តង់ដា និងនិម្មាបនកម្មទិន្នន័យ ការបែងចែកចំណាត់ថ្នាក់ ការគ្រប់គ្រងគុណភាព ការចែករំលែក និងការការពារទិន្នន័យ។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាទិន្នន័យដែលត្រូវបានផ្សព្វផ្សាយដើម្បីឱ្យសាធារណៈជនទូទៅអាចយកមកប្រើប្រាស់និងបោះពុម្ពឡើងវិញតាមដែលពួកគេចង់បាន ដោយគ្មានការរឹតត្បិតពីការរក្សាសិទ្ធិ ប៉ាតង់ ឬយន្តការត្រួតពិនិត្យផ្សេងទៀត។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ជាការការពារទិន្នន័យដែលអាចបញ្ជាក់អំពីអត្តសញ្ញាណបុគ្គល និងទិន្នន័យពាក់ព័ន្ធផ្សេងទៀតដូចជាទិន្នន័យសុខាភិបាល ហិរញ្ញវត្ថុ និងទំនាក់ទំនងផ្ទាល់ខ្លួនរបស់បុគ្គល ពីការប្រើប្រាស់ដោយគ្មានការអនុញ្ញាត។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាការការពរទិន្នន័យឌីជីថលពីការវាយលុកតាមអ៊ីនធឺណិត ការលួច ការបំផ្លិចបំផ្លាញ ឬការប្រើប្រាស់ដោយគ្មានការអនុញ្ញាត៕</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>General</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Data-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 10</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>គេប្រើទិន្នន័យដើម្បីបង្កើតព័ត៌មាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>គេប្រើព័ត៌មានដើម្បីបង្កើតទិន្នន័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ទិន្នន័យនិងព័ត៌មានមិនខុសគ្នាទេ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ទិន្នន័យនិងព័ត៌មានមិនពាក់ព័ន្ធគ្នាទេ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>General</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Development-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 11</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ការផ្តោតលើទិន្នន័យ (Data-Driven)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការគិតគូរពីឌីជីថលតាំងពីការរៀបចំដំបូង(Digital by Design)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>រដ្ឋាភិបាលជាថ្នាលឌីជីថល (Government as a Platform)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ទាំងបីខាងលើ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Development-002</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 12</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>គោលនយោបាយ ស្ថាប័នសម្របសម្រួល ហេដ្ឋារចនាសម្ព័ន្ធ សេវាសាធារណៈ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>អ្នកនយោបាយ វិស័យឯកជន ដៃគូអភិវឌ្ឍ ប្រជាពលរដ្ឋ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>អ្នកស្រាវជ្រាវ ស្តង់ដា ថវិកា ធនធានមនុស្ស សន្តិសុខឌីជីថល</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ទាំងបីខាងលើ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Element of Digital-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 13</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>វិស័យឯកជន មន្ត្រីរាជការ គ្រូបង្រៀន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>មន្ត្រីរាជការ កម្មករ កសិករ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>គ្រូបង្រៀន សិស្សនិស្សិត វិស័យឯកជន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>រដ្ឋាភិបាល ប្រជាពលរដ្ឋ វិស័យឯកជន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>&lt;p&gt;ជម្រើសខាងលើត្រឹមត្រូវទាំងអស់&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>G2B-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 14</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ប្រព័ន្ធព័ត៌មានឌីជីថលគ្រប់គ្រងឯកសារអេឡិចត្រូនិករបស់រដ្ឋាភិបាល</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ប្រព័ន្ធព័ត៌មានឌីជីថលគ្រប់គ្រងការបង់ពន្ធដារ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រព័ន្ធព័ត៌មានឌីជីថលសម្រាប់ភ្ញៀវទេសចរ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រព័ន្ធព័ត៌មានឌីជីថលស្វែងរកការងារជូនប្រជាពលរដ្ឋ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>G2C-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 15</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ប្រព័ន្ធព័ត៌មានឌីជីថលគ្រប់គ្រងឯកសារអេឡិចត្រូនិក</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រព័ន្ធព័ត៌មានឌីជីថលគ្រប់គ្រងមន្ត្រីរាជការ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រព័ន្ធព័ត៌មានឌីជីថលគ្រប់គ្រងហិរញ្ញវត្ថុ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ប្រព័ន្ធព័ត៌មានឌីជីថលស្វែងរកការងារជូនប្រជាពលរដ្ឋ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>G2G-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 16</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ប្រព័ន្ធព័ត៌មានឌីជីថលគ្រប់គ្រងឯកសារអេឡិចត្រូនិករបស់រដ្ឋាភិបាល</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រព័ន្ធព័ត៌មានឌីជីថលគ្រប់គ្រងការបង់ពន្ធដារ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រព័ន្ធព័ត៌មានឌីជីថលសម្រាប់ភ្ញៀវទេសចរ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រព័ន្ធព័ត៌មានឌីជីថលស្វែងរកការងារជូនប្រជាពលរដ្ឋ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Gard North-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 17</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>អភិវឌ្ឍប្រព័ន្ធព័ត៌មានឌីជីថលដោយឡែកៗពីគ្នា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>រៀបចំអភិបាលកិច្ចទិន្នន័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ធ្វើបរិវត្តកម្មឌីជីថល</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រើស្វ័យប្រវត្តកម្មឆ្លាតវៃ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Gard North-002</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 18</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>២ កម្រិត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>៤ កម្រិត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>៥ កម្រិត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>៣ កម្រិត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Gard North-Digital Gov-004</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 19</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>អភិវឌ្ឍប្រព័ន្ធព័ត៌មានឌីជីថលដោយឡែកៗពីគ្នា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>រៀបចំអភិបាលកិច្ចទិន្នន័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ធ្វើបរិវត្តកម្មឌីជីថល</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រើស្វ័យប្រវត្តកម្មឆ្លាតវៃ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Gard North-Electronic Gov-005</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 20</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ផ្លាស់ប្តូរពីការផ្តល់សេវា​តាមបែបប្រពៃណីទៅជាសេវាអនឡាញ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ផ្តល់ទិន្នន័យបើកចំហ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>អភិវឌ្ឍរដ្ឋាភិបាលជាថ្នាល</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រើបច្ចេកវិទ្យាឆ្លាតវៃ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Gard North-Open Gov-004</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 21</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ប្រើស្វ័យប្រវត្តកម្មឆ្លាតវៃ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ផ្តល់ទិន្នន័យបើកចំហ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>អភិវឌ្ឍប្រព័ន្ធព័ត៌មានឌីជីថលដោយឡែកៗពីគ្នា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការពារទិន្នន័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Gard North-Smart Gov-003</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 22</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ប្រើស្វ័យប្រវត្តិកម្មឆ្លាតវៃ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ផ្តល់ទិន្នន័យបើកចំហ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>អភិវឌ្ឍប្រព័ន្ធព័ត៌មានឌីជីថលដោយឡែកៗពីគ្នា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការពារទិន្នន័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>IaaS-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 23</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ជាសេវាមួយប្រភេទនៃបច្ចេកវិទ្យាក្លោដ ដែលផ្តល់នូវធនធានគណនា ធនធានផ្ទុកទិន្នន័យ និងធនធានបណ្តាញសំខាន់ៗតាមតម្រូវការ។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាសេវាមួយប្រភេទនៃបច្ចេកវិទ្យាក្លោដ ដែលផ្តល់នូវប្រព័ន្ធប្រតិបត្តិការ ភាសាសម្រាប់​សរសេរកម្មវិធី មូលទិន្នន័យ និងបរិយាកាសសម្រាប់អភិវឌ្ឍនិងប្រតិបត្តិកម្មវិធី។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាសេវាមួយប្រភេទនៃបច្ចេកវិទ្យាក្លោដ ដែលផ្តល់សេវាសម្រាប់ដំណើរការនិងចែករំលែកការប្រើប្រាស់សុសវែរតាមប្រព័ន្ធអ៊ីនធឺណិតឬបណ្តាញផ្ទៃក្នុង។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាសេវាមួយប្រភេទនៃបច្ចេកវិទ្យាក្លោដ ដែលផ្តល់សេវាគ្រប់គ្រង ប្រើប្រាស់ និងវិភាគទិន្នន័យ។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>technology</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Information-002</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 24</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ការសម្រេចចិត្ត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការបង្កើតចំណេះដឹង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការកម្សាន្ត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ទាំងបីខាងលើ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>General</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>IoT-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 25</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ជាសំណុំទិន្នន័យដែលមានទំហំធំខ្លាំងដែលតម្រូវឱ្យមានវិធីសាស្ត្រនិងបច្ចេកវិទ្យាពិសេសសម្រាប់គ្រប់គ្រងនិងវិភាគដើម្បីបង្ហាញពីទម្រង់ និន្នាការ និងទំនាក់ទំនង ជាពិសេសទាក់ទងនឹងអាកប្បកិរិយានិងអន្តរកម្មរបស់មនុស្ស។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាប្រព័ន្ធកុំព្យួទ័រដែលមានលទ្ធភាពអាចបំពេញភារកិច្ចដូចទៅនឹងភាពឆ្លាតវៃរបស់មនុស្ស ដែលមានដូចជាការយល់ឃើញ ការមើលឃើញ ការនិយាយ ការសម្រេចចិត្ត និងការបកប្រែរវាងភាសា។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ជាបណ្តាញនៃវត្ថុដែលត្រូវបានបង្កប់ដោយឧបករណ៍ចាប់សញ្ញានិងបច្ចេកវិទ្យាផ្សេងទៀត ដើម្បីផ្លាស់ប្តូរទិន្នន័យជាមួយឧបករណ៍និងប្រព័ន្ធផ្សេងៗ។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាបច្ចេកវិទ្យាសម្រាប់គ្រប់គ្រងនិងផ្តល់សេវាមជ្ឈមណ្ឌលទិន្នន័យ ដែលផ្តល់លទ្ធភាពដល់ការប្រើប្រាស់និងចែករំលែកធនធានគណនា ធនធានបណ្តាញ និងធនធានសម្រាប់ផ្ទុកទិន្នន័យប្រកបដោយប្រសិទ្ធភាពស្របទៅតាមតម្រូវការ ដោយគ្មានការគ្រប់គ្រងផ្ទាល់ពីអ្នកប្រើប្រាស់។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>technology</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Open Data-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 26</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ជាយន្តការនិងនីតិវិធីសម្រាប់ការគ្រប់គ្រងនិងប្រើប្រាស់ទិន្នន័យប្រកបដោយប្រសិទ្ធភាពនិងប្រសិទ្ធផល ក្នុងនោះការងារសំខាន់ៗរួមមានការរៀបចំនិងអនុវត្តគោលនយោបាយ ស្តង់ដា និងនិម្មាបនកម្មទិន្នន័យ ការបែងចែកចំណាត់ថ្នាក់ ការគ្រប់គ្រងគុណភាព ការចែករំលែក និងការការពារទិន្នន័យ។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ជាទិន្នន័យដែលត្រូវបានផ្សព្វផ្សាយដើម្បីឱ្យសាធារណៈជនទូទៅអាចយកមកប្រើប្រាស់និងបោះពុម្ពឡើងវិញតាមដែលពួកគេចង់បាន ដោយគ្មានការរឹតត្បិតពីការរក្សាសិទ្ធិ ប៉ាតង់ ឬយន្តការត្រួតពិនិត្យផ្សេងទៀត។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាការការពារទិន្នន័យដែលអាចបញ្ជាក់អំពីអត្តសញ្ញាណបុគ្គល និងទិន្នន័យពាក់ព័ន្ធផ្សេងទៀតដូចជាទិន្នន័យសុខាភិបាល ហិរញ្ញវត្ថុ និងទំនាក់ទំនងផ្ទាល់ខ្លួនរបស់បុគ្គល ពីការប្រើប្រាស់ដោយគ្មានការអនុញ្ញាត។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាការការពារទិន្នន័យឌីជីថលពីការវាយលុកតាមអ៊ីនធឺណិត ការលួច ការបំផ្លិចបំផ្លាញ ឬការប្រើប្រាស់ដោយគ្មានការអនុញ្ញាត។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>PaaS-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 27</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ជាសេវាកម្មគណនាពពកមួយប្រភេទដែលផ្តល់ជូននូវការគណនា ការផ្ទុក និងធនធានបណ្តាញសំខាន់ៗតាមតម្រូវការ។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ជាសេវាមួយប្រភេទនៃបច្ចេកវិទ្យាក្លោដ ដែលផ្តល់នូវប្រព័ន្ធប្រតិបត្តិការ ភាសាសម្រាប់​សរសេរកម្មវិធី មូលទិន្នន័យ និងបរិយាកាសសម្រាប់អភិវឌ្ឍនិងប្រតិបត្តិកម្មវិធី។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាសេវាមួយប្រភេទនៃបច្ចេកវិទ្យាក្លោដ ដែលផ្តល់សេវាសម្រាប់ដំណើរការនិងចែករំលែកការប្រើប្រាស់សុសវែរតាមប្រព័ន្ធអ៊ីនធឺណិតឬបណ្តាញផ្ទៃក្នុង។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាសេវាមួយប្រភេទនៃបច្ចេកវិទ្យាក្លោដ ដែលផ្តល់សេវាគ្រប់គ្រង ប្រើប្រាស់ និងវិភាគទិន្នន័យ។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>technology</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Problem To Solve-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 28</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>មានរចនាសម្ព័ន្ធ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ពាក់កណ្តាលរចនាសម្ព័ន្ធ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>គ្មានរចនាសម្ព័ន្ធ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ងាយស្រួលទាំងអស់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>General</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>SaaS-002</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 29</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ជាសេវាកម្មគណនាពពកមួយប្រភេទដែលផ្តល់ជូននូវការគណនា ការផ្ទុក និងធនធានបណ្តាញសំខាន់ៗតាមតម្រូវការ។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាសេវាមួយប្រភេទនៃបច្ចេកវិទ្យាក្លោដ ដែលផ្តល់នូវប្រព័ន្ធប្រតិបត្តិការ ភាសាសម្រាប់​សរសេរកម្មវិធី មូលទិន្នន័យ និងបរិយាកាសសម្រាប់អភិវឌ្ឍនិងប្រតិបត្តិកម្មវិធី។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ជាសេវាមួយប្រភេទនៃបច្ចេកវិទ្យាក្លោដ ដែលផ្តល់សេវាសម្រាប់ដំណើរការនិងចែករំលែកការប្រើប្រាស់សុសវែរតាមប្រព័ន្ធអ៊ីនធឺណិតឬបណ្តាញផ្ទៃក្នុង។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ជាសេវាមួយប្រភេទនៃបច្ចេកវិទ្យាក្លោដ ដែលផ្តល់សេវាគ្រប់គ្រង ប្រើប្រាស់ និងវិភាគទិន្នន័យ។</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>technology</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Type of Digital Gov-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 30</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>១ ប្រភេទ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>២ ប្រភេទ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>៣ ប្រភេទ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>៤ ប្រភេទ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>រដ្ឋាភិបាលឌីជីថល-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 31</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;អភិបាលកិច្ចឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;ហេដ្ឋារចនាសម្ព័ន្ធឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;សេវារដ្ឋាភិបាលឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>សេដ្ឋកិច្ចឌីជីថល</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;ធុរកិច្ចឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>រដ្ឋាភិបាលឌីជីថល-002</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 32</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;ការទូទាត់បែបឌីជីថល&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>ការធ្វើទីផ្សារឌីជីថល</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;សេដ្ឋកិច្ចឌីជីថល&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;សន្តិសុខឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;មូលធនមនុស្ស&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>សន្តិសុខឌីជីថល-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 33</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="33.33333" format="html">
+      <text>&lt;span&gt;អភិបាលកិច្ចសន្តិសុខឌីជីថល&lt;/span&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;ប្រតិបត្តិការសន្តិសុខឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;បច្ចេកវិទ្យាសន្តិសុខឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;សេដ្ឋកិច្ចឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;សង្គមឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ហេដ្ឋារចនាសម្ព័ន្ធឌីជីថល-001</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 34</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="-33.33333" format="html">
+      <text>&lt;p&gt;សេវាចល័ត&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="html">
+      <text>ទិន្នន័យច្រើន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-33.33333" format="html">
+      <text>&lt;p&gt;ធុរកិច្ចសុវត្ថិភាព&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;បណ្តាញខ្សែកាប្លិ៍អុបទិក&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="50" format="html">
+      <text>&lt;p&gt;បណ្តាញ GPS&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>ហេដ្ឋារចនាសម្ព័ន្ធឌីជីថល-002</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 35</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;បណ្តាញទូរសព្ទចល័ត&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>មជ្ឈមណ្ឌលទិន្នន័យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;បណ្តាញសិនស័រ&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;ល្បឿនអ៊ិនធឺណិត&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;គោលនយោបាយរដ្ឋាភិបាលឌីជីថល&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>អភិបាលកិច្ចឌីជីថល-002</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 36</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;យុទ្ធសាស្ត្ររដ្ឋាភិបាលឌីជីថល&amp;nbsp;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;គោលនយោបាយរដ្ឋាភិបាលឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;លិខិតបទដ្ឋានគតិយុត្តឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;សេដ្ឋកិច្ចឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;ហេដ្ឋារចនាសម្ព័ន្ធឌីជីថល&amp;nbsp;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>អភិបាលកិច្ចឌីជីថល-003</text>
+    </name>
+    <questiontext format="html">
+      <text>12.Question 37</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>false</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text>Your answer is correct.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Your answer is partially correct.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Your answer is incorrect.</text>
+    </incorrectfeedback>
+    <shownumcorrect />
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;ស្តង់ដាឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;សេចក្តីណែនាំឌីជីថល&amp;nbsp;&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="33.33333" format="html">
+      <text>&lt;p&gt;រចនាសម្ព័ន្ធក្រុមការងារឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;ហេដ្ឋារចនាសម្ព័ន្ធឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="-50" format="html">
+      <text>&lt;p&gt;សេវេារដ្ឋាភិបាលឌីជីថល&lt;br&gt;&lt;/p&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>governance</text>
+</tag>
+    </tags>
+  </question>
+
+</quiz>

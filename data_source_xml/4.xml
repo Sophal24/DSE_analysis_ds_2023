@@ -1,0 +1,2820 @@
+<quiz>
+
+  <question type="multichoice">
+    <name>
+      <text>Attack-001</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 1</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ប្រព័ន្ធរបស់ខ្ញុំតូចតាចណាស់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រព័ន្ធខ្ញុំខ្លាំងណាស់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ក្រុមហ៊ុនមិនមែនជាគោលដៅទេ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>នេះជាការយល់ខុសទាំងស្រុង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>attack</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Authentication-001</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 2</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>One-time password</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;span&gt;one-time pin&lt;/span&gt;&lt;br&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>two-factor authentication</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>smart key</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>authentication</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Biometric</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 3</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>A firewall</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ពាក្យសម្ងាត់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ស្កេនភ្នែក</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រយោគ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>authentication</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>CIA-004</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 4</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Confidentiality, Integrity, Availability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Confidential, Intergrated, Availability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Confidential, Integrity, DataSecurity</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Control, Integrity, Availability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>CIA</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Data Protection Measure-001</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 5</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>&lt;span&gt;&lt;span id="docs-internal-guid-d68a8769-7fff-68ae-7b98-46549a45a005" style=""&gt;&amp;nbsp;ការធ្វើកូដនីយកម្មឯកសារសំខាន់ៗ&amp;nbsp; (&lt;/span&gt;Encrypting confidential files)&lt;/span&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>បើកមុខងារការបំពេញព័ត៌មានដោយស្វ័យប្រវត្តិ (Activating the autocomplete feature)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>&lt;span&gt;&lt;span id="docs-internal-guid-f5c0c9fc-7fff-e76f-04b8-6ec463417086" style=""&gt;វិកូដនីយកម្មឯកសារសំខាន់ៗ (&lt;/span&gt;Decrypting confidential files)&lt;/span&gt;</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការតំឡើងកម្មវិធីកំចាត់មេរោគ(Installing Anti-virus Software)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>protection</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Disadvantage of WiFi-001</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 6</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>មិនមានការព្រមានដក់អ្នកប្រើប្រាស់ឡើយ នៅពេលចូលទៅកាន់វិបសាយមានមេរោគ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ច្រើនតែគ្មានសុវត្ថិភាព​ ដែលចោរព័ត៌មានវិទ្យាអាចជ្រៀតចូលលួចព័ត៌មានផ្ទាល់ខ្លួន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>អាចប្រើដោយមិនគិតថ្លៃ និងមានល្បឿនលឿន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ពួកគេអាចទទូលបានតម្លៃថ្លៃណាស់ ព្រោះត្រូវបង់ក្នុងអត្រាមួយម៉ោង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>network</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Encryption-001</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 7</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Secrecy</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Confidentiality</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Integrity</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Availability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>CIA</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Firewall-001</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 8</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>រារាំងកម្មវិធី​ Word មិនឲ្យដំណើរការ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>រារាំងការលោតចេញមក Window</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>រឹតត្បិតការចូលដោយគ្មានការអនុញ្ញាត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ដំឡើង Security Patches</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>firewall</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Hacker-002</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 9</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>មេរោគកុំព្យូទ័រ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>មេរោគម្យ៉ាងដែលប្រមូលព័ត៌មានដោយសម្ងាត់អំពីបុគ្គលឬអង្គភាពហើយបញ្ជូនទិន្នន័យនេះទៅភាគីផ្សេងទៀត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>បុគ្គលដែលចូលប្រើប្រព័ន្ធកុំព្យូទ័រដោយគ្មានការអនុញ្ញាត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>មនុស្សដែលចែករំលែកព័ត៌មានរបស់អ្នកដទៃដោយមានការអនុញ្ញាតពីពួកគេ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>hack</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Keyterm-015</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 10</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Risk Mitigation</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Risk Assessment</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Risk Transfer</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Risk Analysis</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>protection</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Keyterm-016</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 11</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Monitoring Network Activities</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Risk Management</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Vulnerability and Patch Management</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Security Awareness Campaigns</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>protection</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Keyterm-017</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 12</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Email Spoofing</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Email Theft</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Brute Force</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Identity Theft</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>hack</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Online Access-001</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 13</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>MAC</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>VPN</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Wi-Fi</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>LAN</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>review</text>
+</tag>
+      <tag><text>network</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Online Privacy</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 14</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>បានបង្កើតកិច្ចសន្យារវាងខ្លួន និងអ្នកប្រើប្រាស់អំពីរបៀបប្រើប្រាស់ទិន្នន័យរបស់ពួកគេ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>នឹងមិនចែករំលែកព័ត៌មានផ្ទាល់ខ្លួន របស់អ្នកប្រើប្រាស់ជាមួយភាគីទីបីឡើយ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រកាន់ខ្ជាប់នូវគោលការណ៍ណែនាំសហព័ន្ធ អំពីការអនុវត្តការផ្សាយពាណិជ្ជកម្មដែលបញ្ឆោត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>មិនរក្សាទុកព័ត៌មានកំណត់អត្តសញ្ញាណផ្ទាល់ខ្លួនណាមួយ អំពីអ្នកប្រើប្រាស់ទេ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Online Threat</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 15</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Spam</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Spoofing</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Slander</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Phishing</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Phising-101</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 16</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Risk</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Phishing</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Password Sniffing</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Brute Force</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>phising</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Private Browsing-001</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 17</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ក្រុមដែលដំណើរការបណ្តាញកុំព្យូទ័រខាងក្នុងរបស់ក្រុមហ៊ុនពួកគេ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ក្រុមហ៊ុនផ្តល់សេវាកម្មអ៊ីនធឺណិត ដែលគេប្រើ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>មិត្តរួមការងារម្នាក់ដែលប្រើកុំព្យូទ័រដូចគ្នា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>គេហទំព័រដែលពួកគេចូលមើលខណៈពេលដែលនៅក្នុង Private browsing mode</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>review</text>
+</tag>
+      <tag><text>online</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Threat</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 18</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>1,2,3,4</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1,2</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>3,4</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>1,2,4</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>hack</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Virus</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 19</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Virus</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Disease</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Hurricane</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Torpedo</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>online</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Vulnerability-007</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 20</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Exploitation</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Vulnerability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Threat</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Risk</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>threat</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Worm</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 21</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ជាប្រភេទមេរោគដែលមិនកើតបន្ត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Backdoor ទៅប្រព័ន្ធដែលអនុញ្ញាតឱ្យអ្នកប្រើប្រាស់ដែលមានសិទ្ធិចូលប្រើបណ្តាញ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>មេរោគចម្លងដោយខ្លួនឯង ដែលមិនត្រូវការអន្តរកម្មរបស់អ្នកប្រើប្រាស់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រភេទនៃមេរោគដែលនឹងលេចឡើងជាកម្មវិធីមានប្រយោជន៍ ប៉ុន្តែនៅពេលដែលបានដំឡើងវានឹងធ្វើឱ្យខូចកុំព្យូទ័រ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Keyterm-005</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 22</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Confidentiality</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Integrity</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Availability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Accuracy</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>CIA</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Keyterm-008</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 23</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Data Security</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Confidentiality</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Integrity</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Availability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>CIA</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Keyterm-010</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 24</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Phishing</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Denial of Service</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Unauthorized Shutdown</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Unauthorized Modification</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>CIA</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Keyterm-011</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 25</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ប្រើប្រាស់កម្មវិធីប្រឆាំងមេរោគ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ប្រើប្រាស់ជញ្ជាំងភ្លើង (Firewall)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ធ្វើបច្ចុប្បន្នភាពកុំព្យូទ័រជាប្រចាំ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ធ្វើកូដនីយកម្មថាសរឹង (encrypt hard disk)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>CIA</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Keyterm-012</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 26</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Vulnerability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Risk</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Patch</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Data Security</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>CIA</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Technical-010</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 27</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Worm</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Trojan</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Payload</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Exploit Kit</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>review</text>
+</tag>
+      <tag><text>threat</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Technical-Threat</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 28</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Control</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Vulnerability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Risk</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Threat</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>pending</text>
+</tag>
+      <tag><text>threat</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>web defacement-010</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 29</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Server Uptime</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Informatin Availability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Informaion Integrity</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Organization Reputation</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>pretest</text>
+</tag>
+      <tag><text>hack</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>CIA-101</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 30</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Accuracy</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Consistency</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Data Security</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Integrity</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>pretest</text>
+</tag>
+      <tag><text>CIA</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Cyber</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 31</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ត្រឹមត្រូវ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>មិនត្រឹមត្រូវ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>បានគិតខ្លះដែរ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>សម្រាប់តែវិបសាយ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>cyber</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Cyber</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 32</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Confidentiality</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Integrity</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Authorization</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Availability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>cyber</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Cyber</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 33</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>ឧបករណ៍ទាំងអស់នោះមិនត្រូវបានបញ្ចូលមុខងារសុវត្ថិភាពមកជាមួយ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ត្រូវបានគេប្រើប្រាស់ច្រើនប្រទេស</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>មានតម្លៃថោកសមរម្យ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>អាចដាក់ស៊ីមទូរស័ព្ទបាន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+      <tag><text>cyber</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Cyber CIA</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 34</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Confidentiality</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Integrity</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Interoperability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Availability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+      <tag><text>CIA</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Cyber Protection</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 35</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ដាក់ឧបករណ៍ជញ្ជាំងភ្លើង (Firewall)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>តំឡើងកម្មវិធីទប់ស្កាត់ និងកំចាត់មេរោគ (Antivirus)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>មានយន្តការសន្តិសុខជាច្រើនបញ្ចូលគ្នា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>តំឡើងកម្មវិធីមានអាជ្ញាប័ណ្ណ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Cyber-001</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 36</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Confidentiality, Availability, and Integrity</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Confidentiality, Authentication and Availability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Authentication, Authorization, and Confidentiality</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Authentication, Confidentiality, and Interoperability</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>cyber</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Cybercrime</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 37</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Phishing.</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Force majeure.</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Decryption.</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Ethical hacking</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>cyber</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Hacker-001</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 38</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Spamming</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Bugging</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Spoofing</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Phishing</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>l3</text>
+</tag>
+      <tag><text>hack</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Hacking</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 39</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ការគំរាមកំហែងចំពោះទិន្នន័យសម្ងាត់ពីបុគ្គលិកផ្ទៃក្នុង</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>នាំមនុស្សឱ្យបញ្ចេញព័ត៌មានសម្ងាត់</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>នាំ​មនុស្ស​ទៅ​អនុវត្ត​សកម្មភាព​គ្មាន​ការ​អនុញ្ញាត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ការធ្វើតេស្តដែលមានការអនុញ្ញាតដើម្បីកំណត់បញ្ហាសុវត្ថិភាពប្រព័ន្ធ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>hack</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Internet</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 40</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>បង្កើតវេបសាយជាច្រើនរបស់ ARPANET</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>លក់ដូរទំនិញទៅឱ្យអង្គភាព ARPANET</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>បណ្តុះបណ្តាលបុគ្គលិក ARPANET</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>សម្រាប់ធ្វើការផ្លាស់ប្តូរទិន្ន័យក្នុងគម្រោងរបស់ ARPANET</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>General</text>
+</tag>
+      <tag><text>L2</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Online Content</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 41</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Access approval</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Firewall</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Online identity</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Phish</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>online</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Online Safety-001</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 42</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Cookies</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>MIcrosoft Window Firewall (MWF)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Antivirus program (AP)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Secure Socket Layer(SSL)</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Online Threat</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 43</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Hacking</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Spamming</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Phishing</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Virusing</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Popup</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 44</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ចុចបើកមើល ហើយបំពេញព័ត៌មានដើម្បីទទួលបានរង្វាន់នោះ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ចែករំលែកព័ត៌មាននោះជាមួយមិត្តភ័ក្ត្រ ឬក្រុមគ្រួសារដើម្បីទទួលបានរង្វាន់នោះដែរ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>មិនត្រូវចុច ហើយរាយការណ៍ទៅកាន់អ្នកគ្រប់គ្រងព័ត៌មានវិទ្យា</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ចុចហើយបំពេញព័ត៌មានឱ្យបានច្រើនដង ដើម្បីអាចឈ្នះបានច្រើន</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>exam</text>
+</tag>
+      <tag><text>online</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Post1</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Trojan horses</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 45</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Trojan horses</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Viruses</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Web bugs</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Zombies</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>hack</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+
+  <question type="multichoice">
+    <name>
+      <text>Using Internet</text>
+    </name>
+    <questiontext format="html">
+      <text>4.Question 46</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text />
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber />
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text />
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text />
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text />
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>ការគំរាមកំហែងតាមអ៊ីនធឺណិត</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ព័ត៌មានក្លែងក្លាយ</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ការចែករំលែកឯកសាររបស់ភាគីទីបី</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>ការលួច</text>
+      <feedback format="html">
+        <text />
+      </feedback>
+    </answer>
+    <tags>
+      <tag><text>review</text>
+</tag>
+      <tag><text>online</text>
+</tag>
+      <tag><text>L1</text>
+</tag>
+      <tag><text>Quiz</text>
+</tag>
+    </tags>
+  </question>
+
+</quiz>
