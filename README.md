@@ -6,3 +6,5 @@ This is a co-project between Institute of Digital Governance and Institute of Di
 Main branch: **main**
 
 Overleaf (latex) report link: https://www.overleaf.com/1855651364xhmjbfjcxjdz
+
+By **19th October 2023**, We completed writing **first draft report**.
